@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/f10GRoirJaeMrtt9Rp/zxN8zK8sCMi3fovgDROS2TmmKz2Yza+u5y4YKHGA9aqxEuzgZPu5nW74VBf5bS/NxA==",
+  "success": true,
+  "projectFilePath": "/Users/tracydelrosario/Documents/Workspace/swapi-app/swapi-app.csproj",
+  "expectedPackageFiles": [
+    "/Users/tracydelrosario/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/tracydelrosario/.nuget/packages/restsharp/106.11.7/restsharp.106.11.7.nupkg.sha512"
+  ],
+  "logs": []
+}
