@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>swapi_app</RootNamespace>
+    <RootNamespace>swapi_app v1</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
